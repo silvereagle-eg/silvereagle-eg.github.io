@@ -17,3 +17,4 @@ html,body,#root{margin:0;min-height:100%}body{background:#fff}.se-page{margin:-2
 @media(max-width:767px){.se-hero{min-height:500px;padding-bottom:20px}}
 .se-banner{min-height:240px;padding:20px 16px 30px;background-color:#0b0b0c;background-image:radial-gradient(120% 140% at 85% 0%,rgba(201,162,39,.20) 0%,rgba(201,162,39,.05) 40%,transparent 70%),repeating-linear-gradient(135deg,rgba(243,215,122,.045) 0 1px,transparent 1px 22px);background-size:auto;border-bottom:1px solid #3a321a;box-shadow:inset 0 -40px 60px -40px #00000099}
 .se-bannertext{padding:56px 24px 0}
+.se-btn{gap:8px}
