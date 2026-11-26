@@ -14,3 +14,4 @@ html,body,#root{margin:0;min-height:100%}body{background:#fff}.se-page{margin:-2
 .se-mapframe{display:block;width:100%;height:360px;border:0;filter:invert(92%) hue-rotate(180deg) brightness(.95) contrast(.9) saturate(.7)}
 .se-mapwrap{position:relative}
 .se-mapwrap:after{content:"";position:absolute;left:50%;top:50%;width:16px;height:16px;border-radius:50%;background:#f3d77a;border:3px solid #0b0b0c;box-shadow:0 0 0 8px #c9a22766,0 0 18px #c9a227;transform:translate(-50%,-50%);pointer-events:none}
+@media(max-width:767px){.se-hero{min-height:500px;padding-bottom:20px}}
